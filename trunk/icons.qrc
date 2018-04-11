@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="qrcAlias_log.ico">resources/icons/log.ico</file>
+        <file alias="qrcAlias_help.ico">resources/icons/help.ico</file>
+        <file alias="qrcAlias_info.ico">resources/icons/information.ico</file>
+        <file alias="qrcAlias_clear.ico">resources/icons/clear.ico</file>
+        <file alias="qrcAlias_advancedSettings.ico">resources/icons/advancedsettings.ico</file>
+        <file alias="qrcAlias_forward.ico">resources/icons/forward.ico</file>
+        <file alias="qrcAlias_mute.ico">resources/icons/mute.ico</file>
+        <file alias="qrcAlias_verbose.ico">resources/icons/speaker.ico</file>
+        <file alias="qrcAlias_recycle.ico">resources/icons/recycle.ico</file>
+        <file alias="qrcAlias_accept.ico">resources/icons/add.ico</file>
+        <file alias="qrcAlias_exit.ico">resources/icons/exit.ico</file>
+        <file alias="qrcAlias_add.ico">resources/icons/plusone.ico</file>
+        <file alias="qrcAlias_screenshot.ico">resources/icons/screenshot.ico</file>
+        <file alias="qrcAlias_viewmenu.ico">resources/icons/viewsmenu.ico</file>
+        <file alias="qrcAlias_mousex10.ico">resources/icons/mousex10.ico</file>
+        <file alias="qrcAlias_back.ico">resources/icons/back.ico</file>
+        <file alias="qrcAlias_bottom.ico">resources/icons/botton.ico</file>
+        <file alias="qrcAlias_front.ico">resources/icons/front.ico</file>
+        <file alias="qrcAlias_left.ico">resources/icons/left.ico</file>
+        <file alias="qrcAlias_mousex100.ico">resources/icons/mousex100.ico</file>
+        <file alias="qrcAlias_right.ico">resources/icons/right.ico</file>
+        <file alias="qrcAlias_top.ico">resources/icons/top.ico</file>
+        <file alias="qrcAlias_path.ico">resources/icons/path.ico</file>
+    </qresource>
+</RCC>

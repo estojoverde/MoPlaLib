@@ -1,0 +1,20 @@
+/*prefixes(1) - modifiers
+p = pointer
+r = reference
+c = const
+
+
+prefixes(2) - instance/variable type
+d = double
+i = int (indexes)
+n = int (others)
+f = float
+c = char
+sNAME = struct or class + NAME.OF.CLASS
+qlNAME = qlist + NAME.OF.CLASS
+qqNAME = qqueue + NAME.OF.CLASS
+
+
+suffixes(1)
+__ = attribute of a class
+*/
