@@ -1,0 +1,26 @@
+--------------------
+Mudar maneira como erros são lançados. Todos devem ir para a logmessage e, se não tiver GUI, alguém tem que mandar isso para modo texto na stdout ou num arquivo de texto.
+Ex. Quando adiciona um objeto numa posição já existente ele dá um erro em stderr, mas não em logmessage.
+--------------------
+Fazer checagem de erros mais eficiente.
+Ex. Dá para colocar um grid gigante, adicionar dezenas de obstáculos em posições "altas", e depois reduzir o tamanho do grid, com isso, tendo vários objetos fora do grid.
+--------------------
+Comentar e documentar. 
+--------------------
+--------------------
+--------------------
+--------------------
+--------------------
+--------------------
+--------------------
+--------------------
+--------------------
+--------------------
+--------------------
+--------------------
+--------------------
+--------------------
+--------------------
+--------------------
+--------------------
+
