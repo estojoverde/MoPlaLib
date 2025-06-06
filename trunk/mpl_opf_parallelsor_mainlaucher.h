@@ -197,7 +197,7 @@ private:
     MPL_OPF_ParallelSor_RedBlack::MPL_OPF_ParallelSor_ExternalState state_red__;
 
     /**
-     * @brief d_residuered_
+     * @brief d_residue_red_
      * Residue shared with pPSOR_sor_red_
      */
     double d_residue_red_;
