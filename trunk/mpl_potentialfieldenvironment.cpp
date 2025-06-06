@@ -222,7 +222,7 @@ int MPL_PotentialFieldEnvironment::getPath(MPL_Position &pos_start, MPL_Position
                                     (int)(y + d_vy),\
                                     (int)(z + d_vz));
 
-                for(i_aux = i-1; (i>=0) && (!b_reachedMinima); i--)
+                for(i_aux = i-1; (i_aux >= 0) && (!b_reachedMinima); i_aux--)
                 {
                     if( MPL_Position::manhattanDist(pos_path[i], pos_path[i_aux]) < 0.5 )
                     {
